@@ -1,0 +1,16 @@
+{
+    "java.project.sourcePaths": [
+        "Primeros pasos",
+        "Practicando Strings",
+        "Estructuras de control I",
+        "Estructuras de Control II",
+        "Estructura de control III",
+        "ClaseMath",
+        "Clase Scanner",
+        "Arrays",
+        "ActividadIntegradora-1",
+        "Actividad Integradora",
+        "BuclesI"
+    ],
+    "java.project.referencedLibraries": []
+}
