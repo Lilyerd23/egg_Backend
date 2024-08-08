@@ -1,16 +1,23 @@
 {
     "java.project.sourcePaths": [
-        "Primeros pasos",
-        "Practicando Strings",
-        "Estructuras de control I",
-        "Estructuras de Control II",
-        "Estructura de control III",
-        "ClaseMath",
-        "Clase Scanner",
-        "Arrays",
-        "ActividadIntegradora-1",
-        "Actividad Integradora",
-        "BuclesI"
+      "Wrappers",
+      "Primeros pasos",
+      "Practicando Strings",
+      "Estructuras de control I",
+      "Estructuras de Control II",
+      "Estructura de control III",
+      "ClaseMath",
+      "ClaseArrays",
+      "Clase Scanner",
+      "BuclesII",
+      "BuclesI",
+      "Arrays",
+      "ActividadIntegradora-1",
+      "Actividad Integradora VI",
+      "Actividad Integradora IV",
+      "Actividad Integradora 18-07",
+      "Actividad Integradora",
+      "MetodosI-07-08"
     ],
     "java.project.referencedLibraries": []
 }
