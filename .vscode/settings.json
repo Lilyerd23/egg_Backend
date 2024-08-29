@@ -3,21 +3,28 @@
       "Wrappers",
       "Primeros pasos",
       "Practicando Strings",
+      "POO-15-08",
+      "MetodosI-07-08",
+      "Metodos II-08-08",
       "Estructuras de control I",
       "Estructuras de Control II",
       "Estructura de control III",
+      "EncapsulamientoOcultacion-19-08",
       "ClaseMath",
       "ClaseArrays",
       "Clase Scanner",
       "BuclesII",
       "BuclesI",
+      "Asociacion Objetos I - 22-08",
       "Arrays",
       "ActividadIntegradora-1",
       "Actividad Integradora VI",
       "Actividad Integradora IV",
       "Actividad Integradora 18-07",
+      "Actividad Integradora - 20-08/Sistema-de-gestion",
       "Actividad Integradora",
-      "MetodosI-07-08"
+      "Gestion de Bibliteca"
     ],
-    "java.project.referencedLibraries": []
+    "java.project.referencedLibraries": [],
+    "java.debug.settings.onBuildFailureProceed": true
 }
